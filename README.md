@@ -87,9 +87,9 @@ sqlite                    3.35.0               hdfb4753_0<br/>
 statsmodels               0.12.2                   pypi_0    pypi<br/>
 threadpoolctl             2.1.0                    pypi_0    pypi<br/>
 tk                        8.6.10               hbc83047_0<br/>
-torch                     1.8.0+cu111              pypi_0    pypi
-torchaudio                0.8.0                    pypi_0    pypi
-torchvision               0.9.0+cu111              pypi_0    pypi
+torch                     1.8.0+cu111              pypi_0    pypi<br/>
+torchaudio                0.8.0                    pypi_0    pypi<br/>
+torchvision               0.9.0+cu111              pypi_0    pypi<br/>
 tornado                   6.1              py38h27cfd23_0  
 tqdm                      4.59.0                   pypi_0    pypi  
 typing-extensions         3.7.4.3                  pypi_0    pypi  
