@@ -9,13 +9,15 @@ Base line Code 바탕
 
 Task : 1380분(23시간)동안의 Information을 바탕으로 다음 120분간의 가격 추이 예측
 
+# 풀이 방식
+
 (1) Regression
 
 (2) 시계열 모듈 활용
 
 (3) 추가적인 보조지표로 Trading(RSI, MACD 등)
 
-Data 분석
+#Data 분석
 
 현재 Data : Sample_id, time, Coin_index, Open(시가), High(고가), Low(저가), Close(종가), Volume(거래량), quote_av, trades, tb_base_av, tb_quote_av
 
