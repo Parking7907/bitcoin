@@ -43,11 +43,8 @@ pytorch 1.8.0+cu111
 
 
 libtiff                   4.2.0                h3942068_0 
-
 libuuid                   1.0.3                h1bed415_2
-
 libwebp-base              1.2.0                h27cfd23_0
-
 libxcb                    1.14                 h7b6447c_0
 
 libxml2                   2.9.10               hb55368b_3
