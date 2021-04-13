@@ -1,6 +1,6 @@
 # Bitcoin Trading
 
->Dacon 인공지능 비트 트레이더 경진대회 시즌 2 (연간 대회)
+>Dacon 인공지능 비트 트레이더 경진대회 시즌 2 (연간 대회) <br/>
 >https://dacon.io/competitions/official/235712/overview/description/
 
 현재 Running 가능 Code : Arima.py (Dacon Baseline)
@@ -31,13 +31,13 @@ __Problem :__ 현재 주어진 가상화폐들은 "연속적이지 않은 데이
 
 
 # Dependency
-### pandas 1.2.3
+### 1. pandas 1.2.3
 
-### python 3.8.8
+### 2. python 3.8.8
 
-### matplotlib 3.3.4
+### 3. matplotlib 3.3.4
 
-### pytorch 1.8.0+cu111
+### 4. pytorch 1.8.0+cu111
 
 (Not used, but codes like LSTM may use deep learning later, Server is Based on GTX 3090)
 
