@@ -37,7 +37,7 @@ matplotlib 3.3.4
 (Linux Code is Based on GTX 3090)
 
 
-libtiff                   4.2.0                h3942068_0
+libtiff                   4.2.0                h3942068_0 \n
 libuuid                   1.0.3                h1bed415_2
 libwebp-base              1.2.0                h27cfd23_0
 libxcb                    1.14                 h7b6447c_0
