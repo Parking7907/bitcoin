@@ -26,25 +26,28 @@ Task : 1380분(23시간)동안의 Information을 바탕으로 다음 120분간�
 : lstm_preprocess.py Code로 
 MA5, MA20, MA60, MA120등을 구하려는 시도 (But, 현재의 문제점은 일별 변화량을 추적하는것이 아니라 "분별 변화량"을 추적하는 상황
 
-Why? 현재 주어진 가상화폐들은 "연속적이지 않은 데이터", 즉 Sample_id에 따른 Coin_index 값을 같은것을 이어도 연속적이지 않음.
+__Problem__ 현재 주어진 가상화폐들은 "연속적이지 않은 데이터", 즉 Sample_id에 따른 Coin_index 값을 같은것을 이어도 연속적이지 않음.
 즉, 특정 기간동안의 결과값을 랜덤 배치했음(우리가 보는 차트처럼 연속적이지 않는다는 문제점) : 차트 분석적인 기법으로 풀기가 어려움(23시간 안에서만 차트 분석 가능)
 
 
 # Dependency
-pandas 1.2.3
+### pandas 1.2.3
 
-python 3.8.8
+### python 3.8.8
 
-matplotlib 3.3.4
+### matplotlib 3.3.4
 
-pytorch 1.8.0+cu111
+### pytorch 1.8.0+cu111
 
 (Not used, but codes like LSTM may use deep learning later, Server is Based on GTX 3090)
 
 
 libtiff                   4.2.0                h3942068_0 
+
 libuuid                   1.0.3                h1bed415_2
+
 libwebp-base              1.2.0                h27cfd23_0
+
 libxcb                    1.14                 h7b6447c_0
 
 libxml2                   2.9.10               hb55368b_3
