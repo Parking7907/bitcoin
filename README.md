@@ -21,9 +21,9 @@ Task : 1380분(23시간)동안의 Information을 바탕으로 다음 120분간�
 
 *현재 주어지는 시계열 Data : 
   + Sample_id, time, Coin_index, Open(시가), High(고가), Low(저가), Close(종가)
-    -일반적인 주식 거래량과 비슷
+    - 일반적인 주식 거래량과 비슷
   + Volume(거래량), quote_av, trades, tb_base_av, tb_quote_av
-    -일반적이지 않은 Coin에서의 차이점 "TAKER BUY"라는 개념 
+    - 일반적이지 않은 Coin에서의 차이점 "TAKER BUY"라는 개념 
 
 개인적인 Try : (3), 기본적인 데이터를 바탕으로 RSI, MACD 등 계산하여 푸는 시도
 
