@@ -32,8 +32,11 @@ Why? 현재 주어진 가상화폐들은 "연속적이지 않은 데이터", 즉
 
 # Dependency
 pandas 1.2.3
+
 python 3.8.8
+
 matplotlib 3.3.4
+
 pytorch 1.8.0+cu111
 
 (Not used, but codes like LSTM may use deep learning later, Server is Based on GTX 3090)
