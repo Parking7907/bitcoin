@@ -91,26 +91,43 @@ pip                       21.0.1           py38h06a4308_0
 pmdarima                  1.8.0                    pypi_0    pypi
 
 pymeeus                   0.5.10                   pypi_0    pypi
+
 pyparsing                 2.4.7              pyhd3eb1b0_0
 
 pyqt                      5.9.2            py38h05f1152_4
+
 pystan                    2.19.1.1                 pypi_0    pypi
+
 python                    3.8.8                hdb3f193_4
+
 python-dateutil           2.8.1              pyhd3eb1b0_0
+
 pytz                      2021.1             pyhd3eb1b0_0
+
 qt                        5.9.7                h5867ecd_1
+
 readline                  8.1                  h27cfd23_0
 
 requests                  2.25.1                   pypi_0    pypi
+
 scikit-learn              0.24.1                   pypi_0    pypi
+
 scipy                     1.6.1                    pypi_0    pypi
+
 setuptools                52.0.0           py38h06a4308_0
+
 setuptools-git            1.2                      pypi_0    pypi
+
 sip                       4.19.13          py38he6710b0_0
+
 six                       1.15.0           py38h06a4308_0
+
 sqlite                    3.35.0               hdfb4753_0
+
 statsmodels               0.12.2                   pypi_0    pypi
+
 threadpoolctl             2.1.0                    pypi_0    pypi
+
 tk                        8.6.10               hbc83047_0
 
 torch                     1.8.0+cu111              pypi_0    pypi
