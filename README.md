@@ -3,11 +3,15 @@
 >Dacon 인공지능 비트 트레이더 경진대회 시즌 2 (연간 대회) <br/>
 >https://dacon.io/competitions/official/235712/overview/description/
 
-현재 Running 가능 Code : Arima.py (Dacon Baseline)
+---
+
+현재 Runn 가능 Code : Arima.py (Dacon Baseline)
 
 Base line Code 바탕
 
 Task : 1380분(23시간)동안의 Information을 바탕으로 다음 120분간의 가격 추이 예측
+
+---
 
 # 풀이 방식
 
@@ -32,6 +36,9 @@ MA5, MA20, MA60, MA120등을 구하려는 시도 (But, 현재의 문제점은 �
 
 __Problem :__ 현재 주어진 가상화폐들은 "연속적이지 않은 데이터", 즉 Sample_id에 따른 Coin_index 값을 같은것을 이어도 연속적이지 않음.
 즉, 특정 기간동안의 결과값을 랜덤 배치했음(우리가 보는 차트처럼 연속적이지 않는다는 문제점) : 차트 분석적인 기법으로 풀기가 어려움(23시간 안에서만 차트 분석 가능)
+
+
+---
 
 
 # Dependency
