@@ -1,7 +1,7 @@
-# bitcoin
+# Bitcoin Trading
 
-Dacon 인공지능 비트 트레이더 경진대회 시즌 2 (연간 대회)
-https://dacon.io/competitions/official/235712/overview/description/
+>Dacon 인공지능 비트 트레이더 경진대회 시즌 2 (연간 대회)
+>https://dacon.io/competitions/official/235712/overview/description/
 
 현재 Running 가능 Code : Arima.py (Dacon Baseline)
 
