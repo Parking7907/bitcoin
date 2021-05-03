@@ -5,7 +5,8 @@
 
 ---
 
-현재 Runn 가능 Code : Arima.py (Dacon Baseline)
+시계열 문제라는 해석
+현재 Run 가능 Code : Arima.py (Dacon Baseline)
 
 Base line Code 바탕
 
@@ -20,6 +21,8 @@ Task : 1380분(23시간)동안의 Information을 바탕으로 다음 120분간�
 (2) 시계열 모듈 활용
 
 (3) 추가적인 보조지표로 Trading(RSI, MA, MACD 등)
+
+---
 
 # Data 분석
 
