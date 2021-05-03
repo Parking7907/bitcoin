@@ -17,25 +17,6 @@ from sklearn.preprocessing import StandardScaler, MinMaxScaler
 
 
 
-
-#mm = MinMaxScaler()
-#ss = StandardScaler()
-#X_ss = ss.fit_transform(train_x_df)
-#y_mm = mm.fit_transform(test_x_df) 
-
-#X_train = train_x_df
-#X_test = test_x_df
-
-# Test Data 
-"""
-( 굳이 없어도 된다. 하지만 얼마나 예측데이터와 실제 데이터의 정확도를 확인하기 위해 
-from sklearn.metrics import accuracy_score 를 통해 정확한 값으로 확인할 수 있다. )
-"""
-
-#y_train = y[:4500, :]
-#y_test = y[4500:, :] 
-
-
 class LSTM1(nn.Module):
   def __init__(self, num_classes, input_size, hidden_size, num_layers, seq_length):
     super(LSTM1, self).__init__()
